@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princedede
 - 👀 I’m interested in blockchain and data analysis 
-- 🌱 I’m currently learning advance data analysis using PowerBI,Tableau and Python.
+- 🌱 I’m currently learning advance data analysis using PowerBI,Tableau, SQL and Python.
 - 💞️ I’m looking to collaborate on projects related to blockchain and data analysis.
 - 📫 How to reach me? I'm on Telegram as @Princedede
 
