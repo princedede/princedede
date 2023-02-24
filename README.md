@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on projects related to blockchain, data analysis and machine learning. 
 - 📫 How to reach me? I'm on Telegram as @Princedede
 - 📩 tserundedeejueyitchie@gmail.com
+- Medium https://medium.com/@princedede
 
 <!---
 princedede/princedede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
